@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Eduardoreis1/receitasapp/issues"
   },
-  "homepage": "https://github.com/Eduardoreis1/receitasapp#readme"
+  "homepage": "https://github.com/Eduardoreis1/receitasapp#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
